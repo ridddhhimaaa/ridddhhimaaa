@@ -1,6 +1,5 @@
-# 💫 About Me:
-About Me :<br><br>🔭 I’m currently working on<br>End-to-end data and engineering projects including Power BI dashboards, Python-based EDA, and CI/CD pipelines using Jenkins, Docker, and GitHub — with a strong focus on real-world problem solving.<br><br>👯 I’m looking to collaborate on<br>Data Analytics, Data Science, Power BI dashboards, Python projects, and beginner-to-intermediate DevOps implementations where learning and execution go hand in hand.<br><br>🤝 I’m looking for help with<br>Industry best practices, system design thinking, and guidance on scaling projects from academic demos to production-grade solutions.<br><br>🌱 I’m currently learning<br>Data Science, Machine Learning fundamentals, Power BI, Advanced Excel, Python for analytics, and DevOps workflows (Git, Jenkins, Docker, CI/CD).<br><br>💬 Ask me about<br>Power BI dashboards, data cleaning & visualization, Python EDA, Excel analytics, Git & GitHub workflows, and how to document projects professionally.<br><br>⚡ Fun fact<br>I enjoy breaking complex systems into simple logic and often learn best by building things end-to-end rather than just reading theory.
-
+# About Me:
+About Me :<br><br> I’m currently working on<br>End-to-end data and engineering projects including Power BI dashboards, Python-based EDA, and CI/CD pipelines using Jenkins, Docker, and GitHub — with a strong focus on real-world problem solving.<br><br>I’m looking to collaborate on<br>Data Analytics, Data Science, Power BI dashboards, Python projects, and beginner-to-intermediate DevOps implementations where learning and execution go hand in hand.<br><br>I’m looking for help with<br>Industry best practices, system design thinking, and guidance on scaling projects from academic demos to production-grade solutions.<br><br>I’m currently learning<br>Data Science, Machine Learning fundamentals, Power BI, Advanced Excel, Python for analytics, and DevOps workflows (Git, Jenkins, Docker, CI/CD).<br><br>Ask me about<br>Power BI dashboards, data cleaning & visualization, Python EDA, Excel analytics, Git & GitHub workflows, and how to document projects professionally.<br><br>Fun fact<br>I enjoy breaking complex systems into simple logic and often learn best by building things end-to-end rather than just reading theory.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddhima-rai-120737291/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ridddhhimaaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riddhimarai1704@gmail.com) 
@@ -11,9 +10,6 @@ About Me :<br><br>🔭 I’m currently working on<br>End-to-end data and enginee
 ![](https://github-readme-stats.vercel.app/api?username=ridddhhimaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ridddhhimaaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridddhhimaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ridddhhimaaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
