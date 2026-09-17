@@ -127,7 +127,7 @@
             <font size="2" face="monospace" color="#39d353">STATUS: AUGUST 2026 – PRESENT // PIPELINE &amp; ANALYTICS</font>
           </td>
           <td align="right" valign="top">
-            <a href="PROJECT_LINK_HERE"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
+            <a href="https://github.com/ridddhhimaaa/Cybersecurity-threat-intel"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
           </td>
         </tr>
       </table>
@@ -156,7 +156,7 @@
             <font size="2" face="monospace" color="#58a6ff">STATUS: MAY 2026 – JUNE 2026 // BACKEND &amp; DEVOPS SHOWCASE</font>
           </td>
           <td align="right" valign="top">
-            <a href="PROJECT_LINK_HERE"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
+            <a href="https://github.com/ridddhhimaaa/Orion-cicd-platform"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
           </td>
         </tr>
       </table>
@@ -185,7 +185,7 @@
             <font size="2" face="monospace" color="#f0883e">STATUS: JANUARY 2025 – FEBRUARY 2025 // SYSTEMS SIMULATOR</font>
           </td>
           <td align="right" valign="top">
-            <a href="PROJECT_LINK_HERE"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
+            <a href="https://github.com/ridddhhimaaa/Dynamic_Load_Balancer"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
           </td>
         </tr>
       </table>
