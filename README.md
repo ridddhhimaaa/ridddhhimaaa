@@ -124,7 +124,7 @@
         <tr>
           <td>
             <font size="4" face="monospace" color="#ffffff"><strong>CYBERSECURITY THREAT INTELLIGENCE PLATFORM</strong></font><br>
-            <font size="2" face="monospace" color="#39d353">STATUS: AUGUST 2026 – PRESENT &amp; </font>
+            <font size="2" face="monospace" color="#39d353">STATUS: AUGUST 2026 – PRESENT; </font>
           </td>
           <td align="right" valign="top">
             <a href="https://github.com/ridddhhimaaa/Cybersecurity-threat-intel"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
@@ -153,7 +153,7 @@
         <tr>
           <td>
             <font size="4" face="monospace" color="#ffffff"><strong>ORION: MULTI-SERVICE BACKEND &amp; CI/CD PLATFORM</strong></font><br>
-            <font size="2" face="monospace" color="#58a6ff">STATUS: MAY 2026 – JUNE 2026 &amp; </font>
+            <font size="2" face="monospace" color="#58a6ff">STATUS: MAY 2026 – JUNE 2026; </font>
           </td>
           <td align="right" valign="top">
             <a href="https://github.com/ridddhhimaaa/Orion-cicd-platform"><img src="https://img.shields.io/badge/View_Repository-21262d?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Link"/></a>
